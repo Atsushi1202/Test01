@@ -7,5 +7,12 @@ Y = 5
 
 print(X+Y)
     
+A = 0
+B = 0
+
+A = B + 1
+print(A)
+
+
 
 #コメント化
