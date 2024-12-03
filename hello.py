@@ -1,10 +1,11 @@
-msg = "Hello World!"
-print(msg)
 
-x = 10
-y = 5
+MSG = "Hello World!"  #大文字と_は定数として使いたい
+print(MSG)
 
-print(x+y)
+X = 10
+Y = 5
+
+print(X+Y)
     
 
 #コメント化
